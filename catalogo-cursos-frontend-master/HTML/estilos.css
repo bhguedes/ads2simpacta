@@ -1,0 +1,35 @@
+.p { 
+    font-weight: bold;
+    font-style: italic;
+    color: darkblue;
+    background-color: yellow;
+
+}
+
+.div1 {
+    background-color: cyan;
+    width: 150px;;
+    height: 150px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.div2 {
+    background-color: black;
+    color: white;
+    width: 150px;;
+    height: 150px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.div3 {
+    background-color:magenta;
+    width: 150px;;
+    height: 150px;
+    padding: 5px;
+    display: block;
+
+
+
+}
